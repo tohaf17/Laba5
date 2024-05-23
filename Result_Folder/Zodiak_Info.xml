@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student sur_name="отлсч" name="шщрів" date_array="2002-01-02T00:00:00" zodiak="Capricornus" />
+  <Student sur_name="іваоі" name="іваоіл" date_array="2002-02-02T00:00:00" zodiak="Aquarius" />
+  <Student sur_name="ьбтчс" name="шщцу" date_array="2006-09-02T00:00:00" zodiak="Virgo" />
+</ArrayOfStudent>
